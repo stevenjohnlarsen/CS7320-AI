@@ -4,8 +4,8 @@ X XXX  XXXX XX X XXXXX X
 X     XXXXX X XXXXXXXX X
 XXXXXXX     S  X       X
 X    X XXXXXX XX  XXXXXX
-X XXXX X          X    X
+X XXXXGX          X    X
 X        XXX XXX    X  X
 XXXXXXXXXX     XXXXXX  X
-XG          XX         X
+XG          XX        GX
 XXXXXXXXXXXXXXXXXXXXXXXX
